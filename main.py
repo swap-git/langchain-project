@@ -7,7 +7,7 @@ load_dotenv()
 
 def main():
     print("Hello from langchain-course!")
-    print(os.getenv("OPENAPI_API_KEY"))
+   
 
 
 if __name__ == "__main__":
